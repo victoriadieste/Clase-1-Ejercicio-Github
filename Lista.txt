@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -20,8 +20,8 @@ Moas Fermino, Esteban Gerardo (151702) ->
 Nemmer Lavandeira, Lucía (210637) ->
 Papazian Ramos, Juan Ignacio (191572) ->
 Petrocelli Olivar, Paolo Giovanni (189640) ->
-Rezzano Díaz, Marcelo Nicolás (195348) ->
+Rezzano Díaz, Marcelo Nicolás (195348) ->MarceRezzano
 Sempolis Caprile, Luis Emilio (185664) ->
 Sotto Ferreira, Garia Antonella (191065) ->
-Vicente Lima, Emiliano José (213867) ->
+Vicente Lima, Emiliano José (213867) ->EmilianoVicente1995
 Vidal Servetto, Martín Ignacio (68694) ->

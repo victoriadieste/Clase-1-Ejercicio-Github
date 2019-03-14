@@ -1,27 +1,28 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
 Alles López, Facundo Andrés (204385) ->
 Baeza Clavijo, Marcelo Nicolás (212827) ->
-Barboza Ojeda, Emiliano Líber (147067) ->
+Barboza Ojeda, Emiliano Líber (147067) -> Emiliano-Barboza
 Brenner Werthein, Itay Damián (160865) -> Usuario Github: itaybre
-Bula Rodríguez, Carolina (232826) ->
+Bula Rodríguez, Carolina (232826) -> Carobula
 Carbonell García, Juan Pablo (203357) ->
 Clavero Carrizo, Esteban José (213119) ->
-Costa Rodriguez, Paula Gianela (204704) ->
+Costa Rodriguez, Paula Gianela (204704) -> GianelaCosta // Gaye Dutra, Rodrigo (213450) -> rgaye
 Ferrero Moskovics, Federico (183721) ->
 Francescoli Rocca, Paola (150273) ->
 Lantean Alcántara, Mathias (180094) ->
-Loureiro de Rezendes, Luis Ignacio (191659) ->
+Loureiro de Rezendes, Luis Ignacio (191659) -> driden
 Luna Addiego, María Belén (216935) ->
 Méndez Ferro, Bruno Martín (202287) ->
 Moas Fermino, Esteban Gerardo (151702) ->
 Nemmer Lavandeira, Lucía (210637) ->
 Papazian Ramos, Juan Ignacio (191572) ->
 Petrocelli Olivar, Paolo Giovanni (189640) ->
-Rezzano Díaz, Marcelo Nicolás (195348) ->
+Rezzano Díaz, Marcelo Nicolás (195348) ->MarceRezzano
 Sempolis Caprile, Luis Emilio (185664) ->
 Sotto Ferreira, Garia Antonella (191065) ->
-Vicente Lima, Emiliano José (213867) ->
+Vicente Lima, Emiliano José (213867) ->EmilianoVicente1995
 Vidal Servetto, Martín Ignacio (68694) ->
+Bergeret Moreira, Francisco (239203) -> fbergeret95

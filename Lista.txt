@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -9,7 +9,7 @@ Brenner Werthein, Itay Damián (160865) ->
 Bula Rodríguez, Carolina (232826) ->
 Carbonell García, Juan Pablo (203357) ->
 Clavero Carrizo, Esteban José (213119) ->
-Costa Rodriguez, Paula Gianela (204704) ->
+Costa Rodriguez, Paula Gianela (204704) -> GianelaCosta // Gaye Dutra, Rodrigo (213450) -> rgaye
 Ferrero Moskovics, Federico (183721) ->
 Francescoli Rocca, Paola (150273) ->
 Lantean Alcántara, Mathias (180094) ->

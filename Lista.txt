@@ -9,7 +9,7 @@ Bellón Chiarelli, Tatiana Natasha (232624) -> Usuario Github:
 Brascesco Dalto, Matías Nicolás (149682) -> Usuario Github:
 Calleros Píriz, Rodrigo Hernán (232814) -> Usuario Github:
 Carballo , Diego Horacio (141089) -> Usuario Github:
-Castro Portela, Lucas Federico (218709)	-> Usuario Github:
+Castro Portela, Lucas Federico (218709)	-> Usuario Github:lucastroport
 Cawen Barloco, Rubén Daniel (226172) -> Usuario Github:
 de Souza Silva, Carlos Renato (216425) -> Usuario Github:
 Deus Mercader, Andrés Antonio (210170) -> Usuario Github:
@@ -30,4 +30,4 @@ Tourn González, Luciano Agustín (200976) -> Usuario Github:
 Wagner Fort, Federico Miguel (97037) -> Usuario Github:
 Wagner Lemos, Gonzalo Esteban (187413) -> Usuario Github:
 Zilberberg Machado, Jaime Nicolás (138484) -> Usuario Github:
-Castro Portela, Federico Lucas (218709) -> Usuario Github: lucastroport
+

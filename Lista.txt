@@ -6,10 +6,10 @@ Areco Puig, Romina Noelia (206874) -> Usuario Github:
 Arleo Uturbey, Tamara (152930) -> Usuario Github:
 Barrabino Iriarte, Julieta (229560) -> Usuario Github:	
 Bellón Chiarelli, Tatiana Natasha (232624) -> Usuario Github:	
-Brascesco Dalto, Matías Nicolás (149682) -> Usuario Github:
+Brascesco Dalto, Matías Nicolás (149682) -> Usuario Github:matiasbrascesco
 Calleros Píriz, Rodrigo Hernán (232814) -> Usuario Github:
 Carballo , Diego Horacio (141089) -> Usuario Github:
-Castro Portela, Lucas Federico (218709)	-> Usuario Github:
+Castro Portela, Lucas Federico (218709)	-> Usuario Github:lucastroport
 Cawen Barloco, Rubén Daniel (226172) -> Usuario Github: danielcawen
 de Souza Silva, Carlos Renato (216425) -> Usuario Github:
 Deus Mercader, Andrés Antonio (210170) -> Usuario Github:
@@ -24,7 +24,7 @@ Prieto Maffla, Agustín Iñaki (174688) -> Usuario Github:
 Salvia Delgado, Christian Adrián (175021) -> Usuario Github:
 Sorriba Trabal, Martín Horacio (225209)	-> Usuario Github:
 Sosa Mercadal, José Miguel (145939) -> Usuario Github:
-Taeger López, Camila Magalí (234087) -> Usuario Github:
+Taeger López, Camila Magalí (234087) -> Usuario Github:camilataeger
 Taruselli Mattío, Agustín (143113) -> Usuario Github:
 Tourn González, Luciano Agustín (200976) -> Usuario Github:
 Wagner Fort, Federico Miguel (97037) -> Usuario Github:

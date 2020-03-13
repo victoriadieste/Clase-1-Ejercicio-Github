@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Cohen, Marcel (xxxxxx) -> Usuario Github: mcohen97
 ----------------------------------------
 Amado Landoni, José Pedro (188885) -> Usuario Github:
@@ -16,7 +16,7 @@ Deus Mercader, Andrés Antonio (210170) -> Usuario Github:
 Eyherachar Bindritsch, Agustín (182629) -> Usuario Github:
 Franco Rubano, Pierina Cecilia (156199) -> Usuario Github:
 González Caballero, Juan Sebastian (208938) -> Usuario Github: SebastianFletcher
-López Vaccaro, Francisco (209003) -> Usuario Github:
+López Vaccaro, Francisco (209003) -> Usuario Github: 209003
 Marroche Elzaurdia, Francisco (177749) -> Usuario Github:
 Musso Taboada, Antonella (217916) -> Usuario Github:
 Pais Carrau, Nicolás Carlos (160846) -> Usuario Github: NicolasPais05 
